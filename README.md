@@ -1,4 +1,7 @@
 # OpenCV_Firedetection
+
+<a href="https://github.com/limepillX/Firedetection_webapp">Webapp to this project</a>
+
 The project was developed for the IBA and BSUIR hackathon on the topic of digital twins.
 The theme of the project is the monitoring of complex technological objects based on video surveillancen.
 The project took 2nd place among 11 teams.
